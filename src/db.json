@@ -1,16 +1,24 @@
 {
-    "products": [
-        {
-            "name": "Producto 1",
-            "id": 1
-        },
-        {
-            "name": "Producto 2",
-            "id": 2
-        },
-        {
-            "name": "Producto 3",
-            "id": 3
-        }
-    ]
+  "products": [
+    {
+      "name": "Producto 1",
+      "id": "1"
+    },
+    {
+      "name": "Producto 2",
+      "id": "2"
+    },
+    {
+      "name": "Producto 3",
+      "id": "3"
+    },
+    {
+      "id": 1762788188957,
+      "name": "Producto4"
+    },
+    {
+      "id": 1762788193826,
+      "name": "Producto 6"
+    }
+  ]
 }
